@@ -27,5 +27,6 @@ def find_valid_calls(planeteer_calls)
     else
       nil
     end
+    counter += 1
   end
 end
